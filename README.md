@@ -20,8 +20,8 @@ The data used in ths project was taken from [Kaggle](https://www.kaggle.com/data
 
 Majoirty of stock data was collected from 2010 to 2016 (varies by company)
 
-- fundamentals.csv: Contains fundamental financial data of companies.
-- prices.csv: Contains daily stock prices of companies.
-- prices-split-adjusted.csv: Contains split-adjusted stock prices.
-- securities.csv: Contains additional company information.
+- `fundamentals.csv`: Contains fundamental financial data of companies.
+- `prices.csv`: Contains daily stock prices of companies.
+- `prices-split-adjusted.csv`: Contains split-adjusted stock prices.
+- `securities.csv`: Contains additional company information.
 
