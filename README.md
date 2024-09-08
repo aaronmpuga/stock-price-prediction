@@ -1,5 +1,5 @@
 # Project Summary
-This project predicts the closing stock price of Apple Inc. (Ticker Symbol: AAPL) using historical stock price and financial data. The analysis is performed using a Jupyter Notebook and involves data preprocessing, feature engineering, and model training.
+In this project I'll predict the closing stock price of Apple Inc. (Ticker Symbol: AAPL) using historical stock price and financial data. The analysis is performed using a Jupyter Notebook and involves data preprocessing, feature engineering, and model training.
 
 # Overview
 - Data Collection and Preparation:
