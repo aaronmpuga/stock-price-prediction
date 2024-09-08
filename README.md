@@ -18,7 +18,7 @@ Implemented K-Fold Cross Validation to ensure robust and reliable model performa
 # Files
 The data used in ths project was taken from [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse/data?select=prices.csv)
 
-Majoirty of stock data was collected from 2010 to 2016 (varies by company)
+Majority of stock data was collected from 2010 to 2016 (varies by company)
 
 - `fundamentals.csv`: Contains fundamental financial data of companies.
 - `prices.csv`: Contains daily stock prices of companies.
