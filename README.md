@@ -16,9 +16,9 @@ Assessed model performance using metrics like Mean Squared Error (MSE), Mean Abs
 Implemented K-Fold Cross Validation to ensure robust and reliable model performance.
 
 # Files
-The data used in ths project was taken from [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse/data?select=prices.csv)
+The data used in this project was taken from [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse/data?select=prices.csv)
 
-Majority of stock data was collected from 2010 to 2016 (varies by company)
+The stock data within these csv files ranges from the years 2010 to 2016 (varies by company)
 
 - `fundamentals.csv`: Contains fundamental financial data of companies.
 - `prices.csv`: Contains daily stock prices of companies.
